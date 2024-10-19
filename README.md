@@ -4,7 +4,24 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Landing Page</title>
+    <h1> Wireframe </h1>
+
+<h3> Main Page (Landing Page) </h3>
+
+Hero Image: <img src="https://github.com/user-attachments/assets/f3817c67-791c-42d2-b260-3668250a225f" width="300">
+
+
+Headline: "Experience the Thrill of Climbing with Caffeinated Climbing Guide Service"
+
+Subheadline: "Expert Guides. Stunning Locations. Unforgettable Adventures."
+
+Call to Action: "Book Your Climbing Adventure Now"
+
+Featured Services: Highlights of popular climbing experiences (examples: Half-Day Climb, Multi-Day Expedition)
+
+Testimonials: Quotes from satisfied customers
+
+Footer: Navigation links (About Us, Services, Store, Contact), social media icons
     <link rel="stylesheet" href="styles.css">
 </head>
 <body>
