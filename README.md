@@ -4,24 +4,24 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <h1> Wireframe </h1>
-
-<h3> Main Page (Landing Page) </h3>
+    <h1> Caffeinated Climbing </h1>
 
 Hero Image: <img src="https://github.com/user-attachments/assets/f3817c67-791c-42d2-b260-3668250a225f" width="300">
-
-
-Headline: "Experience the Thrill of Climbing with Caffeinated Climbing Guide Service"
-
-Subheadline: "Expert Guides. Stunning Locations. Unforgettable Adventures."
-
+ <main>
+        <section>
+            <p>Experience the Thrill of Climbing with Caffeinated Climbing Guide Service</p>
+        </section>
+        <section>
+            <p>Expert Guides. Stunning Locations. Unforgettable Adventures.</p>
+        </section>
+    </main>
+    <footer>
 Call to Action: "Book Your Climbing Adventure Now"
 
 Featured Services: Highlights of popular climbing experiences (examples: Half-Day Climb, Multi-Day Expedition)
 
 Testimonials: Quotes from satisfied customers
 
-Footer: Navigation links (About Us, Services, Store, Contact), social media icons
     <link rel="stylesheet" href="styles.css">
 </head>
 <body>
@@ -37,17 +37,7 @@ Footer: Navigation links (About Us, Services, Store, Contact), social media icon
                  </ul>
         </nav>
     </header>
-    <main>
-        <section>
-            <h2>Our Mission</h2>
-            <p>We aim to provide the best services to our clients.</p>
-        </section>
-        <section>
-            <h2>What We Do</h2>
-            <p>We offer a wide range of services to meet your needs.</p>
-        </section>
-    </main>
-    <footer>
+   
         <p>&copy; 2024 Our Company. All rights reserved.</p>
     </footer>
 </body>
