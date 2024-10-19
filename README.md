@@ -12,9 +12,10 @@
         <h1>Welcome to Our Website</h1>
         <nav>
             <ul>
-                <li><a href="#">About US</a></li>
+                <li><a href="#">About Us</a></li>
                 <li><a href="#">Services</a></li>
                 <li><a href="#">Store</a></li>
+                <li><a href="#">Customer Page</a><li>
                 <li><a href="#">Contact</a></li>
                  </ul>
         </nav>
